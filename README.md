@@ -1,7 +1,7 @@
 # TODO List 📃
 
 ## Features :
-- Add tasks 
+- Add tasks ✏️
 - Delete individual tasks or clear the entire list 🗑️
 - Mark tasks as done by clicking on them ✅
 - Delete or add deal with local storage 
